@@ -30,7 +30,7 @@ class KarakterSurfer:
 		print(f"Jumlah Koin	: {self.koin}")
 		print(f"Status Berlari	: {self.is_running}")
 
-player1 = KarakterSurfer("Angel")
+player1 = KarakterSurfer("jake")
 
 player1.info_player()
 
